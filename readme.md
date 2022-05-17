@@ -12,4 +12,5 @@ POST /api/messages/
 Token Authentication
 
 ## Additionals:
-Plus I have implemented testing. 
+- I have implemented throtling
+- I have implemented testing. 
