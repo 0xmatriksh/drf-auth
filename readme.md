@@ -10,3 +10,6 @@ POST /api/messages/
 
 ## Authentication:
 Token Authentication
+
+## Additionals:
+Plus I have implemented testing. 
